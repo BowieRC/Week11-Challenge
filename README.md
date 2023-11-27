@@ -1,7 +1,7 @@
 # ExpressJS Note Taker
 ![Static Badge](https://img.shields.io/badge/Licence-MIT_License-blue)
 ## DEMO:
-![Alt Text](assets/Note%20Taker.gif)
+![Alt Text](assets/Note%20Taker%20(1).gif)
 
 ## Deployment:
 [Heroku Deployment](https://pacific-brook-57871-78bbde62cc10.herokuapp.com)

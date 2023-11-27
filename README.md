@@ -8,11 +8,9 @@
 
 ## Table of Contents: 
 * [Description](#description)
-* [Installation](#installation)
 * [Usage](#usage)
 * [Licence](#licence)
 * [Contributing](#contributing)
-* [Tests](#tests)
 * [Questions](#questions)
 ## Description:
 Keep track of all important notes!

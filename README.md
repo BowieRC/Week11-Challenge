@@ -16,7 +16,6 @@
 Keep track of all important notes!
 ## Usage: 
 Simply enter your note with a title and text, save, and click it in the side bar to view your notes!
-*NOTE: Current bug does not automatically insert most recent note into the sidebar. Reloading the page is currently required.*
 ## Licence: 
 **MIT License** <br>
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.            

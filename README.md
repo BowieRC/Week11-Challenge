@@ -4,15 +4,13 @@
 ![Alt Text](assets/Note%20Taker.gif)
 
 ## Deployment:
-[Heroku Deployment](https://pacific-brook-57871-78bbde62cc10.herokuapp.com/notes)
+[Heroku Deployment](https://pacific-brook-57871-78bbde62cc10.herokuapp.com)
 
 ## Table of Contents: 
 * [Description](#description)
-* [Installation](#installation)
 * [Usage](#usage)
 * [Licence](#licence)
 * [Contributing](#contributing)
-* [Tests](#tests)
 * [Questions](#questions)
 ## Description:
 Keep track of all important notes!
